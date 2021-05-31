@@ -6,17 +6,17 @@ import Fade from 'react-reveal/Fade';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHdd } from '@fortawesome/free-solid-svg-icons';
 import { faGithubSquare } from '@fortawesome/free-brands-svg-icons';
-import cv1 from '../../assets/img/cv1.png';
-import cv2 from '../../assets/img/cv2.png';
-import cv3 from '../../assets/img/cv3.png';
-import cv4 from '../../assets/img/cv4.png';
+// import cv1 from '../../assets/img/cv1.png';
+// import cv2 from '../../assets/img/cv2.png';
+// import cv3 from '../../assets/img/cv3.png';
+// import cv4 from '../../assets/img/cv4.png';
 import Lightbox from 'react-image-lightbox';
 import {Modal, Button} from 'react-bootstrap';
 import Projects from '../projects';
 import {Link, useHistory} from 'react-router-dom';
 
 const images = [
-  cv1,cv2,cv3,cv4
+  // cv1,cv2,cv3,cv4
 ];
 
 const ColoredLine = ({ color }) => (
