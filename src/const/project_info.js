@@ -7,7 +7,7 @@ import esl3 from '../assets/img/esl3.png'
 import agric2 from '../assets/img/agric2.png'
 import agric3 from '../assets/img/agric3.png'
 import agric4 from '../assets/img/agric4.png'
-import estate1  from '../assets/img/estate1.png'
+import estate1 from '../assets/img/estate1.png'
 import estate2 from '../assets/img/estate2.png'
 import estate3 from '../assets/img/estate3.png'
 import gidigas1 from '../assets/img/gidigas1.png'
@@ -32,124 +32,120 @@ import agro3 from '../assets/img/agro3.png'
 
 export default [
     {
-            id: 0,
-            name: "An Agency Banking website ",
-            tools: "HTML, Css, Javascript",
-            link: "https://paycentreafrica.com/",
-            image: [
-                `${pay1}`,
-                `${pay2}`
+        id: 0,
+        name: "Yep Pay-  A complete payment platform, designed & engineered for growth",
+        tools: "React Hooks, taiwind,nextjs",
+        link: "https://app.yeppay.io/",
+        image: [
 
-                
-            ]
-        },
-        {
-            id: 1,
-            name: "ESL- E-settlement limited",
-            tools: "ReactJS, PHP",
-            link: "http://esettlementgroup.com/",
-            image: [
-                `${esl1}`,
-                `${esl2}`,
-                `${esl3}`
-                
-            ]
-        },
-        {
-            id: 2,
-            name: "Contentionary-  A dashboard system to control student exams",
-            tools: "React, React-hooks",
-            link: "https://contentionary.com/",
-            image: [
-                `${con1}`,
-                `${con2}`,
-                `${con3}`,
-                `${con4}`
-            ]
-        },
-        {
-            id: 2,
-            name: "Promise Card-  A system to create a promise card and create wish list",
-            tools: "React, React-hooks",
-            link: "https://promisecard.ng/",
-            image: [
-                `${promise1}`,
-                `${promise2}`,
-                `${promise3}`,
-                `${promise4}`
-            ]
-        },
-        {
-            id: 2,
-            name: "ADAP-  A Digital Agriculture System",
-            tools: "React, React-hooks",
-            link: "https://naughty-lumiere-cd686e.netlify.app",
-            image: [
-                `${agro1}`,
-                `${agro2}`,
-                `${agro3}`,
-            ]
-        },
-        {
-            id: 3,
-            name: "Sourcing And Produce - DELIVERING AFRICA'S AGRIC-COMMODITIES GLOBALLY",
-            tools: "React Hooks, Bootstraps, Firebase",
-            link: "https://sourcingandproduce.com/",
-            image: [
-                `${agric2}`,
-                `${agric3}`,
-                `${agric4}`
-            ]
-        },
-        
-        {
-            id: 4,
-            name: "themma",
-            tools: "React Hooks, Bootstraps, Firebase",
-            link: "http://themma.com/",
-            image: [
-                `${thelma}`,
-                `${thelma1}`
-            ]
-        },
-        {
-            id: 5,
-            name: "Gidi Gas - A Gas delivery company",
-            tools: "Reactjs , Nodejs",
-            link: "http://gidigas.com/",
-            image: [
-                `${gidigas1}`,
-                `${gidigas2}`
-            ]
-        },
-        {
-            id: 6,
-            name: "Agent Onboarding Admin",
-            tools: "ReactJS, Bootstraps",
-            link: "https://signup-admin.paycentreafrica.com",
-            image: [
-                `${admin1}`
-            ]
-        },
-        {
-            id: 7,
-            name: "Real Estate",
-            tools: "ReactJS, Bootstraps",
-            link: "https://godfreyonah.web.app/",
-            image: [
-                `${estate1}`,
-                `${estate2}`,
-                `${estate3}`
-            ]
-        },
-        {
-            id: 8,
-            name: "Portfolio",
-            tools: "React Native, Firebase",
-            link: false,
-            image: [
-                
-            ]
-        }
+        ]
+    },
 
-    ]
+    {
+        id: 1,
+        name: "ESL- E-settlement limited",
+        tools: "ReactJS, PHP",
+        link: "https://main--stellar-kringle-1a9b99.netlify.app/",
+        image: [
+            
+
+        ]
+    },
+    {
+        id: 2,
+        name: " Agency Banking  ",
+        tools: "HTML, Css, Javascript",
+        link: "https://paycentreafrica.com/",
+        image: [
+            `${pay1}`,
+            `${pay2}`
+
+
+        ]
+    },
+    {
+        id: 3,
+        name: "Contentionary-  A dashboard system to control student exams",
+        tools: "React, React-hooks",
+        link: "https://contentionary.com/",
+        image: [
+            `${con1}`,
+            `${con2}`,
+            `${con3}`,
+            `${con4}`
+        ]
+    },
+    {
+        id: 4,
+        name: "Yep Website",
+        tools: "webflow",
+        link: "https://www.getyep.co/",
+        image: [
+
+        ]
+    },
+
+    {
+        id: 5,
+        name: "ADAP-  A Digital Agriculture System",
+        tools: "React, React-hooks",
+        link: "https://naughty-lumiere-cd686e.netlify.app",
+        image: [
+            `${agro1}`,
+            `${agro2}`,
+            `${agro3}`,
+        ]
+    },
+
+
+    {
+        id: 6,
+        name: "themma",
+        tools: "React Hooks, Bootstraps, Firebase",
+        link: "http://themma.com/",
+        image: [
+            `${thelma}`,
+            `${thelma1}`
+        ]
+    },
+    {
+        id: 7,
+        name: "Gidi Gas - A Gas delivery company",
+        tools: "Reactjs , Nodejs",
+        link: "http://gidigas.com/",
+        image: [
+            `${gidigas1}`,
+            `${gidigas2}`
+        ]
+    },
+    {
+        id: 8,
+        name: "Agent Onboarding Admin",
+        tools: "ReactJS, Bootstraps",
+        link: "https://signup-admin.paycentreafrica.com",
+        image: [
+            `${admin1}`
+        ]
+    },
+    {
+        id: 9,
+        name: "Real Estate",
+        tools: "ReactJS, Bootstraps",
+        link: "https://godfreyonah.web.app/",
+        image: [
+            `${estate1}`,
+            `${estate2}`,
+            `${estate3}`
+        ]
+    },
+    {
+        id: 10,
+        name: "Portfolio",
+        tools: "React Native, Firebase",
+        link: false,
+        image: [
+
+        ]
+    }
+
+]
